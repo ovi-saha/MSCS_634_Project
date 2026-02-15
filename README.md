@@ -8,7 +8,7 @@ Bharath Singareddy
 
 **Advanced Big Data and Data Mining (MSCS-634-M20)**  
 
-Dr. Satish Penmatsa
+Dr. Satish Penmatsa  
 February 15, 2026
 
 
