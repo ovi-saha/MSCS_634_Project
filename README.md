@@ -166,8 +166,8 @@ Deliverable 4 consolidates all findings and provides actionable recommendations:
 ## Submission Components
 
 - **Jupyter Notebook (.ipynb):** Contains all preprocessing, modeling, and visualization code with comments.
-- **Comprehensive Report (PDF/Word):** Includes introduction, methodology, results, insights, and references.
-- **Video Presentation (5–7 minutes):** Explains project journey, decisions, challenges, and insights.
+- **Comprehensive Report (PDF):** Includes introduction, methodology, results, insights, and references.
+- **Video Presentation :** Explains project journey, decisions, challenges, and insights.
 - **README.md:** Summarizes the entire project, including dataset, steps, findings, and recommendations.
 
 ## References
