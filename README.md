@@ -175,3 +175,6 @@ Deliverable 4 consolidates all findings and provides actionable recommendations:
 - Han, J., Kamber, M., & Pei, J. (2011). *Data Mining: Concepts and Techniques* (3rd ed.). Morgan Kaufmann.
 - Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830.
 - Tan, P.-N., Steinbach, M., & Kumar, V. (2005). *Introduction to Data Mining*. Pearson.
+
+## Presentation Link
+https://go.screenpal.com/watch/cOno2En0qU1
